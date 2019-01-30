@@ -39,30 +39,158 @@
  	margin-top: 130px;
 }
 
-h1, h2 {
-
+h1, h2, h3, h4 {
 	font-family: 'Titillium Web', sans-serif;
- 	font-size: 30px;
+}
+
+h2 {
+ 	font-size: 40px;
+ 	margin-top: -40px;
+ 	padding-bottom: 40px;
+ 	margin-left: 140px;
+
+}
+
+h3 {
+	font-size: 40px;
+	margin-top: 170px;
+}
+
+h4 {
+	font-size: 30px;
+	margin-top: -31px;
 }
 
 .paragraph {
+	margin-top: 200px;
+	display: flex;
+	flex-direction: row;
+	height: 200px;
+	flex-wrap: wrap;
+}
+
+.paragraph2 {
+	margin-top: 200px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.paragraph3 {
+	margin-top: 10px;
+	height: 200px;
+}
+
+.paragraph4 {
+	margin-top: 10px;
+	height: 200px;
+}
+
+.paragraph img {
+	height: 350px;
+	margin-top: 60px;
+}
+
+.paragraph2 img {
+	height: 350px;
+	margin-top: 250px;
+	width: 428px;
+	margin-left: -380px;
+	padding-right: 60px; 	
+}
+
+.paragraph2image2 img {
+	height: 350px;
+	margin-top: -920px;
+	width: 480px;
+	margin-left: 380px;
+	padding-left: 90px; 
+	margin-bottom: 60px;
+}
+
+.paragraph3 img {
+	height: 350px;
+	margin-top: -800px;
+	width: 480px;
+	margin-left: 380px;
+	padding-left: 90px; 
+	margin-bottom: 20px;
+}
+
+p {
+	font-family: 'Pragati Narrow', sans-serif;
+ 	font-size: 22px;
+ 	color: black;
+
+}
+
+.smallerText {
+	width: 460px;
+	line-height: 24px;
+	height: 400px;
+	padding-right: 30px;
+	letter-spacing: 1.9px;
+	padding-bottom: 100px;
+}
+
+.smallerText2 {
+	width: 460px;
+	line-height: 24px;
+	height: 400px;
+	letter-spacing: 1.9px;
+	margin-top: 240px;
+}
+
+.smallerText3 {
+	width: 460px;
+	line-height: 24px;
+	height: 400px;
+	padding-right: 30px;
+	letter-spacing: 1.9px;
+	padding-bottom: 100px;
+
+}
+
+#italics {
+	font-style: italic; 
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.smallerText4 {
+	width: 430px;
+	line-height: 28px;
+	height: 400px;
+	padding-right: 30px;
+	letter-spacing: 1.9px;
+	padding-bottom: 0px;
+}
+
+.smallerText5 {
+	width: 400px;
+	line-height: 24px;
+	height: 400px;
+	padding-right: 30px;
+	letter-spacing: 2.5px;
+}
+
+
+.smallerText6 {
+	width: 960px;
+	line-height: 24px;
+	height: 400px;
+	padding-right: 30px;
+	letter-spacing: 2.5px;
+	padding-bottom: 0px;
 	margin-top: 300px;
 }
 
-p
-{
-	font-family: 'Pragati Narrow', sans-serif;
- 	font-size: 30px;
- 	color: black;
-}
+.container {
 
-.container
-{
 	margin:0 auto;
 	width: 960px;
 	padding-left: 20px;
 	padding-right: 20px;
-
+	margin-top: 10px;
 }
 
 body {
