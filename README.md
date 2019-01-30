@@ -5,8 +5,8 @@ The website created for Anglers.org is a long scrolling site in which the user c
 <br>
 information on the association and certain aspects of fishing. From photos of fish to
 <br>
-photos of a working progress in the Thames River.
+photos of a working progress in the Thames River,
 <br>
-The user should easily be able to scroll down and read content and look at photos along
+the user is able to scroll down and read content and look at photos along
 <br>
-the main page. 
+the main page.
